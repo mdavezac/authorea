@@ -1,4 +1,0 @@
-authorea
-========
-
-authorea
